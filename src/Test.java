@@ -6,6 +6,11 @@ public class Test
     public static void show()
     {
         System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
+        System.out.println("a");
 
     }
 
